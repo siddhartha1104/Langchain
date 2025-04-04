@@ -1,0 +1,15 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+pypdf 
+beautifulsoup4
+arxiv
+pymupdf
+wikipedia
+sentence-transformers
+langchain-huggingface
+chromadb
+streamlit
+faiss-cpu
+
