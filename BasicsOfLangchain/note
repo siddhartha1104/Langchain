@@ -1,0 +1,7 @@
+1. Create account in Groq
+   https://groq.com/
+
+2. Create API key in Groq
+3. model="gemma2-9b-it"
+4. LCEL
+5. LangServe -> Deploy as restAPI

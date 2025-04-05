@@ -12,4 +12,10 @@ langchain-huggingface
 chromadb
 streamlit
 faiss-cpu
-
+langchain-groq
+openai
+langchain-openai
+langchain-core
+fastapi
+uvicorn
+langserve[all]
